@@ -16,7 +16,6 @@ QUICKNODE_URL = "https://snowy-solitary-patron.sei-pacific.quiknode.pro/b85f3362
 TOKENS = [
     {"name": "USDC",    "contract": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1", "decimals": 6},
     {"name": "USDT",    "contract": "0xB75D0B03c06A926e488e2659DF1A861F860bD3d1", "decimals": 6},
-    {"name": "syUSD",   "contract": "0x059A6b0bA116c63191182a0956cF697d0d2213eC", "decimals": 18},
     {"name": "SFASTUSD","contract": "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269", "decimals": 18},
 ]
 
