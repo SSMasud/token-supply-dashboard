@@ -16,7 +16,7 @@ QUICKNODE_URL = "https://snowy-solitary-patron.sei-pacific.quiknode.pro/b85f3362
 TOKENS = [
     {"name": "USDC",    "contract": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1", "decimals": 6},
     {"name": "USDT",    "contract": "0xB75D0B03c06A926e488e2659DF1A861F860bD3d1", "decimals": 6},
-    {"name": "SFASTUSD","contract": "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269", "decimals": 18},
+    {"name": "FASTUSD","contract": "0x37a4dD9CED2b19Cfe8FAC251cd727b5787E45269", "decimals": 18},
 ]
 
 def call_rpc(method, params, retries=3, delay=1):
